@@ -4,6 +4,7 @@ This is a repo to demo intro to git and github
 ## This is a subheading
 ### This is another sub heading
 _Italics_
+___
 **Bold**
 
-THis is a normal line
+This is a normal line
